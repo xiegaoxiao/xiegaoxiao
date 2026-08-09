@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="260" viewBox="0 0 640 260">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- 窗口体 -->
+  <rect x="10" y="10" width="620" height="240" rx="12" fill="#0D0221" stroke="#00FFF5" stroke-opacity="0.8" stroke-width="1.5" filter="url(#glow)"/>
+
+  <!-- 标题栏圆点 -->
+  <circle cx="36" cy="34" r="6" fill="#FF5F56"/>
+  <circle cx="58" cy="34" r="6" fill="#FFBD2E"/>
+  <circle cx="80" cy="34" r="6" fill="#27C93F"/>
+  <text x="110" y="39" font-family="monospace" font-size="12" fill="#00FFF5" opacity="0.85">papalaladin@night-city: ~/WUHAN</text>
+
+  <!-- 分隔线 -->
+  <line x1="20" y1="54" x2="620" y2="54" stroke="#FF2E97" stroke-opacity="0.4" stroke-width="1"/>
+
+  <!-- 终端内容 -->
+  <text x="28" y="86" font-family="monospace" font-size="14" fill="#FF2E97">$ whoami</text>
+  <text x="28" y="110" font-family="monospace" font-size="14" fill="#00FFF5">▸ 渣渣辉 · papalaladin</text>
+  <text x="28" y="132" font-family="monospace" font-size="14" fill="#00FFF5">▸ 学生 · 独立开发者 · 博主</text>
+  <text x="28" y="154" font-family="monospace" font-size="14" fill="#00FFF5">▸ 武汉 // WUHAN, CN</text>
+
+  <text x="28" y="184" font-family="monospace" font-size="14" fill="#FF2E97">$ status</text>
+  <text x="28" y="208" font-family="monospace" font-size="14" fill="#39FF14">▸ [ONLINE] 代码编译中… 信号满格 ▓▓▓▓▓▓</text>
+  <text x="28" y="232" font-family="monospace" font-size="14" fill="#B388FF">▸ 「生活明朗，万物可爱」</text>
+
+  <!-- 光标 -->
+  <rect x="470" y="222" width="12" height="16" fill="#00FFF5" opacity="0.9"/>
+</svg>
