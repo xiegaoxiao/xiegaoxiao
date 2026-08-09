@@ -77,8 +77,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiegaoxiao&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00FFF5&icon_color=FF2E97&text_color=00FFF5&border_color=FF2E97&include_all_commits=true&count_private=true" alt="GitHub Stats" width="46%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiegaoxiao&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00FFF5&text_color=00FFF5&border_color=FF2E97" alt="Top Languages" width="40%" />
+[![Followers](https://img.shields.io/github/followers/xiegaoxiao?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D0221&color=00FFF5)](https://github.com/xiegaoxiao)
+[![Stars](https://img.shields.io/github/stars/xiegaoxiao?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=0D0221&color=39FF14)](https://github.com/xiegaoxiao)
+[![Repos](https://img.shields.io/github/repos/xiegaoxiao?style=for-the-badge&logo=github&logoColor=white&label=REPOS&labelColor=0D0221&color=FF2E97)](https://github.com/xiegaoxiao)
+<br>
+[![TimeCalc Last Commit](https://img.shields.io/github/last-commit/xiegaoxiao/timecalc?style=for-the-badge&logo=github&logoColor=white&label=TIMECALC%20UPDATE&labelColor=0D0221&color=B388FF)](https://github.com/xiegaoxiao/timecalc)
+[![TimeCalc Stars](https://img.shields.io/github/stars/xiegaoxiao/timecalc?style=for-the-badge&logo=github&logoColor=white&label=TIMECALC%20STARS&labelColor=0D0221&color=00FFF5)](https://github.com/xiegaoxiao/timecalc)
+
+> ⚠️ 实时统计卡（github-readme-stats）在部分地区无法加载，故改用 shields.io 直连数据徽章，保证国内访问。
 
 </div>
 
