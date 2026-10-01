@@ -1,101 +1,58 @@
 <div align="center">
-
-<img src="assets/banner.svg" alt="XIE GAOXIAO — Cyberpunk Profile Banner" width="100%">
-
-<br>
-
-<img src="assets/terminal.svg" alt="papalaladin@night-city" width="620">
-
-<br><br>
-
-<!-- 社交徽章 -->
-[![GitHub](https://img.shields.io/badge/GitHub-xiegaoxiao-0D0221?style=for-the-badge&logo=github&logoColor=00FFF5&labelColor=0D0221)](https://github.com/xiegaoxiao)
-[![博客 Eternal](https://img.shields.io/badge/博客-Eternal-0D0221?style=for-the-badge&logo=hexo&logoColor=FF2E97&labelColor=0D0221)](https://blog.imaeternal.cn/)
-[![公众号](https://img.shields.io/badge/公众号-一条猫的编程日记-0D0221?style=for-the-badge&logo=wechat&logoColor=39FF14&labelColor=0D0221)](https://mp.weixin.qq.com/)
-[![QQ](https://img.shields.io/badge/QQ-2914213073-0D0221?style=for-the-badge&logo=tencentqq&logoColor=B388FF&labelColor=0D0221)](#)
-
+  <img src="assets/banner.svg" alt="xiegaoxiao · 独立开发者 · 把想法做成工具，把工具做得好用" width="100%">
 </div>
 
----
-
-## 🧠 技能矩阵 // SKILL MATRIX
-
-<div align="center">
-
-**后端 BACKEND**
 <br>
-<img src="https://img.shields.io/badge/Java-00FFF5?style=flat&logo=java&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Spring-00FFF5?style=flat&logo=spring&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Spring%20Boot-00FFF5?style=flat&logo=springboot&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/SSM-00FFF5?style=flat&labelColor=0D0221">
-<img src="https://img.shields.io/badge/MyBatis-00FFF5?style=flat&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Python-39FF14?style=flat&logo=python&logoColor=white&labelColor=0D0221">
-<br><br>
 
-**前端 FRONTEND**
-<br>
-<img src="https://img.shields.io/badge/Vue-39FF14?style=flat&logo=vue.js&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/React-39FF14?style=flat&logo=react&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Node.js-39FF14?style=flat&logo=node.js&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Vite-39FF14?style=flat&logo=vite&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Webpack-39FF14?style=flat&logo=webpack&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Pinia-39FF14?style=flat&logo=pinia&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/JavaScript-39FF14?style=flat&logo=javascript&logoColor=white&labelColor=0D0221">
-<br><br>
+喜欢做解决实际问题的小工具，也关注交互与视觉设计。这里放我正在维护的项目、实验，以及写下来的开发经验。
 
-**移动端 MOBILE**
-<br>
-<img src="https://img.shields.io/badge/Flutter-FF2E97?style=flat&logo=flutter&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Dart-FF2E97?style=flat&logo=dart&logoColor=white&labelColor=0D0221">
-<br><br>
+## 01 / 精选项目
 
-**工具与部署 TOOLKIT**
-<br>
-<img src="https://img.shields.io/badge/Docker-FF2E97?style=flat&logo=docker&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Git-FF2E97?style=flat&logo=git&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/GitHub%20Actions-FF2E97?style=flat&logo=githubactions&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Apifox-FF2E97?style=flat&logo=apifox&logoColor=white&labelColor=0D0221">
-<img src="https://img.shields.io/badge/Photoshop-B388FF?style=flat&logo=adobephotoshop&logoColor=white&labelColor=0D0221">
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/xiegaoxiao/timecalc"><img src="assets/project-timecalc.svg" alt="TimeCalc · 时间管理工具 · Flutter / Dart" width="100%"></a>
+<p>倒计时、计划日历、重复任务与进度统计，把长期目标拆成每天可执行的安排。</p>
+<a href="https://github.com/xiegaoxiao/timecalc">查看源码 ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/xiegaoxiao/lol-zh-cn-tool"><img src="assets/project-lol.svg" alt="LoL 简体中文工具 · 配置与保护 · C# / Windows" width="100%"></a>
+<p>简体中文配置、备份恢复与持续检测保护，提供 Windows 图形界面和命令行版本。</p>
+<a href="https://github.com/xiegaoxiao/lol-zh-cn-tool">查看源码 ↗</a> · <a href="https://github.com/xiegaoxiao/lol-zh-cn-tool/releases/latest">下载 Release</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/xiegaoxiao/zhuifan"><img src="assets/project-zhuifan.svg" alt="zhuifan · 番剧提醒 · Python / GitHub Actions" width="100%"></a>
+<p>用自动化流程跟踪番剧开播时间，把提醒交给脚本。</p>
+<a href="https://github.com/xiegaoxiao/zhuifan">查看源码 ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/xiegaoxiao/xiegaoxiao.github.io"><img src="assets/project-blog.svg" alt="Eternal · 开发记录与博客 · Hexo" width="100%"></a>
+<p>记录开发过程、技术尝试与复盘，让经验可以再次使用。</p>
+<a href="https://github.com/xiegaoxiao/xiegaoxiao.github.io">查看源码 ↗</a>
+</td>
+</tr>
+</table>
 
-</div>
+## 02 / 常用技术
 
-> 🎮 兴趣：数码科技 · 智能家居 · 设计开发 · 算法与数据结构 · 黑神话 · 追番
+| 方向 | 技术 |
+| :--- | :--- |
+| 后端与脚本 | Java · Spring Boot · MyBatis · Python |
+| 前端与交互 | Vue · React · JavaScript · Vite · Pinia |
+| 桌面与移动端 | C# · .NET Framework · Flutter · Dart |
+| 工程与部署 | Git · Docker · GitHub Actions · Apifox |
 
----
+## 03 / 做事的方式
 
-## 🚀 项目 // PROJECTS
+**先解决问题，再打磨体验。** 从一个具体需求出发，让功能、界面和文档一起完善。
 
-| 项目 | 简介 | 语言 |
-| --- | --- | --- |
-| [⏱️ <span style="color:#00FFF5">**TimeCalc**</span>](https://github.com/xiegaoxiao/timecalc) | 时间计算器：把长期目标拆成今天就能执行的事。倒计时 · 计划日历 · 重复任务（含艾宾浩斯间隔复习）· 进度统计 · 备份与 WebDAV 同步 | Dart / Flutter |
-| [🐍 <span style="color:#39FF14">**zhuifan**</span>](https://github.com/xiegaoxiao/zhuifan) | 番剧开播精确到分钟推送微信：GitHub Actions + Server 酱，零成本 · 零运维 · 零状态 | Python |
-| [✍️ <span style="color:#FF2E97">**Eternal Blog**</span>](https://github.com/xiegaoxiao/xiegaoxiao.github.io) | 个人博客「Eternal」源码（Hexo · AnZhiYu 主题） | HTML / Hexo |
-
----
-
-## 📊 系统监控 // SYSTEM MONITOR
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/xiegaoxiao?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D0221&color=00FFF5)](https://github.com/xiegaoxiao)
-[![Stars](https://img.shields.io/github/stars/xiegaoxiao?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=0D0221&color=39FF14)](https://github.com/xiegaoxiao)
-[![Repos](https://img.shields.io/github/repos/xiegaoxiao?style=for-the-badge&logo=github&logoColor=white&label=REPOS&labelColor=0D0221&color=FF2E97)](https://github.com/xiegaoxiao)
-<br>
-[![TimeCalc Last Commit](https://img.shields.io/github/last-commit/xiegaoxiao/timecalc?style=for-the-badge&logo=github&logoColor=white&label=TIMECALC%20UPDATE&labelColor=0D0221&color=B388FF)](https://github.com/xiegaoxiao/timecalc)
-[![TimeCalc Stars](https://img.shields.io/github/stars/xiegaoxiao/timecalc?style=for-the-badge&logo=github&logoColor=white&label=TIMECALC%20STARS&labelColor=0D0221&color=00FFF5)](https://github.com/xiegaoxiao/timecalc)
-
-> ⚠️ 实时统计卡（github-readme-stats）在部分地区无法加载，故改用 shields.io 直连数据徽章，保证国内访问。
-
-</div>
+**把过程留下，把成果分享。** 用源码和开发记录说明工具怎么工作，也欢迎通过项目 Issue 交流反馈。
 
 ---
 
 <div align="center">
-
-📡 **接入频道**　·　[博客](https://blog.imaeternal.cn/)　·　[GitHub](https://github.com/xiegaoxiao)　·　[公众号：一条猫的编程日记](https://mp.weixin.qq.com/)　·　QQ `2914213073`
-
-<br>
-
-<sub>⛨ SYSTEM ONLINE — 数据已加密传输 · 主页 v2.0 CYBERPUNK</sub>
-
+  <strong>CODE / CREATE / SHARE</strong><br>
+  <sub>把想法做成工具，把工具做得好用。</sub>
 </div>
